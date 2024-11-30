@@ -1,1 +1,1 @@
-# RegistorPage
+# Registor
