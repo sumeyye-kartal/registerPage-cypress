@@ -1,1 +1,1 @@
-# RegistorPage-cypress
+# RegistorPage
