@@ -1,1 +1,1 @@
-# Registor
+# RegistorPage Cypress
